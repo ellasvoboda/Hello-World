@@ -4,9 +4,6 @@ First repository
 - [Project Title](#Project-Title)
 - [Description](#Description)
 - [Tools Used](#Tools-Used)
-- [Files Used](#Files-Used)
-- [How to Run Program](#How-to-Run-Program)
-- [Additional Information](#Additional-Information)
 
 ## Project Title
 Womens Sports Spending in the US
